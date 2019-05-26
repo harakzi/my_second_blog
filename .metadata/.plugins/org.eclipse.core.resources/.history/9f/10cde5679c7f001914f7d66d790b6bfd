@@ -5,14 +5,16 @@
 	<body>
 		<div>
 			<h1><a href="/">kz's Blog</a></h1>
+			<p> {{ posts }} </p>
 		</div>
 
 		{% for post in posts %}
-			<div>
-				<p>pulished：26.05.2019, 19:00</p>
-				<h2><a href="">{{ post.title }}</a></h2>
-				<p>{{ post.test|linebreaksbr }}</p>
-			</div>
+
+
+
+
+
+
 		{% endfor %}
 	</body>
 </html>
