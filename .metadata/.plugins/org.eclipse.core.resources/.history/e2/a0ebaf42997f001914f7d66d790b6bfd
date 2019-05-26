@@ -1,0 +1,17 @@
+<html>
+	<head>
+		<title>kz's blog</title>
+	</head>
+	<body>
+		<div>
+			<h1><a href="/">kz's Blog</a></h1>
+		</div>
+
+		<div>
+			<h2><a href="">My second post</a></h2>
+		</div>
+
+	    <p>Hi there!</p>
+	    <p>It works!</p>
+	</body>
+</html>
